@@ -10,10 +10,10 @@ Projexio is an open-source digital portfolio builder that empowers students and 
 - Fully responsive design for all devices.
 
 **Getting Started:**
-Follow the [Installation Guide](link-to-installation-guide) to set up Projexio locally.
+Follow the [Installation Guide](./INSTALLATION.md) to set up Projexio locally.
 
 **Contributing:**
-We welcome contributions! Please see our [Contributing Guidelines](link-to-contributing-guidelines) for bug reporting and code submissions.
+We welcome contributions! Please see our [Contributing Guidelines](./CONTRIBUTING.md) for bug reporting and code submissions.
 
 **License:**
 Projexio is [MIT licensed](link-to-license).
