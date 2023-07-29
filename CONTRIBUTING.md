@@ -70,7 +70,3 @@ Projexio follows a [Code of Conduct](./CODE_OF_CONDUCT.md) that outlines our exp
 By contributing to Projexio, you agree that your contributions will be licensed under the [MIT License](./LICENSE).
 
 Thank you for being part of the Projexio community. Your contributions play a crucial role in making this project a valuable resource for users worldwide!
-
----
-
-Make sure to customize the CONTRIBUTING.md file with any additional guidelines or specific requirements related to your project. This template outlines the general contributing process for bug reports, feature requests, and code contributions, along with the coding standards and security reporting. Including a section on the project's Code of Conduct fosters a respectful and inclusive community for all contributors.
