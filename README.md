@@ -15,8 +15,11 @@ Follow the [Installation Guide](./INSTALLATION.md) to set up Projexio locally.
 **Contributing:**
 We welcome contributions! Please see our [Contributing Guidelines](./CONTRIBUTING.md) for bug reporting and code submissions.
 
+**Roadmap:**
+Please see our [Project Roadmap](./ROADMAP.md) to understand the steps to build this project.
+
 **License:**
-Projexio is [MIT licensed](link-to-license).
+Projexio is [MIT licensed](./LICENSE).
 
 **Community:**
 Join our [Community Forum](link-to-forum) and follow us on [Twitter](link-to-twitter) for updates and discussions.
